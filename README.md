@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **WhatsApp clone**
 
-- 🌱 I’m currently learning **php and MySQL**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MonaAlazzani?tab=repositories](https://github.com/MonaAlazzani?tab=repositories)
 
