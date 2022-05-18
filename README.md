@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mona Alazzani</h1>
-<h3 align="center">I have an upper-intermediate background in programming, and currently working on mobile application development using Flutter with over 6 months of experience.</h3>
+<h3 align="center">I have an upper-intermediate background in programming, and currently working on mobile application development using Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monaalazzani&label=Profile%20views&color=0e75b6&style=flat" alt="monaalazzani" /> </p>
 
