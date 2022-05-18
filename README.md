@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **monaalazzani1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kFTbBBtLDvtt7UOiDBlzPJQaPahna17t/view?usp=sharing](https://drive.google.com/file/d/1kFTbBBtLDvtt7UOiDBlzPJQaPahna17t/view?usp=sharing)
-
 
 <p align="left">
 </p>
